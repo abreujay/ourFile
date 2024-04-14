@@ -44,7 +44,7 @@ const HomeComponent = () => {
   return (
     <div className='home-container'>
         <div className="home-header">
-            <h2>Upload you archive</h2>
+            <h2>Upload your file</h2>
         </div>
         <div className="home-body">
             <label htmlFor="file"></label>
